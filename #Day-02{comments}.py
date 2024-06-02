@@ -8,3 +8,9 @@
 # Comments can be used to prevent execution when testing code.
 
 # print("hello world!"), since '#' is denoted as comments in python
+
+# '#' is used as a single line comments
+
+'''
+{''' '''} or triple quotation mark is used as a multi-line comments
+'''
